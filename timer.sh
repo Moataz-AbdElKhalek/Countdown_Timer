@@ -1,7 +1,7 @@
 #!/bin/bash
 
 hour=0
-min=45
+min=25
 sec=0
 while [ $hour -ge 0 ]; do
     while [ $min -ge 0 ]; do
